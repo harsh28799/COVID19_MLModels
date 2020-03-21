@@ -1,7 +1,0 @@
-1. git remote add upstream "https://github.com/CSSEGISandData/COVID-19.git"
-2. git fetch upstream 
-3. git checkout master 
-4. git merge upstream/master
-5. git add .
-6. git commit -m ""
-7. git push origin
